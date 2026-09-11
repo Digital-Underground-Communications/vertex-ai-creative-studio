@@ -73,7 +73,7 @@ google-auth==2.57.0
     #   google-genai
 google-auth-httplib2==0.4.2
     # via google-api-python-client
-google-cloud-aiplatform==1.165.1
+google-cloud-aiplatform==2.1.0
     # via google-adk
 google-cloud-appengine-logging==1.10.0
     # via google-cloud-logging
@@ -198,7 +198,7 @@ proto-plus==1.28.4
     #   google-cloud-secret-manager
     #   google-cloud-speech
     #   google-cloud-trace
-protobuf==7.36.0
+protobuf==7.36.1
     # via
     #   google-api-core
     #   google-cloud-aiplatform
